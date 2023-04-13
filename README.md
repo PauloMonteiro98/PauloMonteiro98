@@ -10,7 +10,7 @@ Este é o meu perfil no GitHub, onde compartilho alguns dos meus projetos e cód
 <h3>⚡TECNOLOGIAS E FERRAMENTAS⚡</h3>
 <hr>
 
-Atualmente estou aprendendo as seguintes linguagens:
+Atualmente estou aprendendo as seguintes tecnologias:
 
 <li><strong>JavaScript</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" />
 <li><strong>Python</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" />
