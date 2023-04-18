@@ -6,13 +6,16 @@ Olá, pessoal! Me chamo João Paulo. Tenho 24 anos. Sou estudante do curso super
 Este é o meu perfil no GitHub, onde compartilho alguns dos meus projetos e códigos. Sinta-se à vontade para explorar e usar qualquer um dos meus repositórios.
 
 <h3>⚡TECNOLOGIAS E FERRAMENTAS⚡</h3>
+<hr>
 
-Atualmente estou aprendendo as seguintes tecnologias:
+Atualmente estou aprendendo as seguintes ferramentas:
 
 <li><strong>JavaScript</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" />
 <li><strong>Python</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" />
+<li><strong>MySql</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="20" />
+<li><strong>Html</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="20" height="20" />
 <li><strong>Css</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" />
-                           
+   
 <h3>📫CONTATO📫</h3>
 <hr>
 Se você quiser entrar em contato comigo, pode me encontrar nas seguintes redes sociais:
