@@ -3,7 +3,15 @@
 <hr>
 <p>Olá, pessoal! Me chamo João Paulo. Tenho 24 anos. Sou estudante do curso superior de Sistemas para Internet do <a href="https://portal.ifrn.edu.br/campus/parnamirim/">Instituto Federal do Rio Grande do Norte - Campus Parnamirim.</a> Atualmente estou no 3° Período e sou apaixonado por tecnologia e programação e sempre estou em busca de aprender coisas novas.<p>
 
-<p>Este é o meu perfil no GitHub, onde compartilho alguns dos meus projetos e códigos. Sinta-se à vontade para explorar e usar qualquer um dos meus repositórios.<p>
+<p>Este é o meu perfil no GitHub, onde compartilho alguns dos meus projetos e códigos. Sinta-se à vontade para explorar e usar qualquer um dos meus repositórios.<p><br>
+
+
+<div align="center">
+  <a href="https://github.com/PauloMonteiro98">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PauloMonteiro98&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMonteiro98&theme=radical&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 <h3>⚡TECNOLOGIAS E FERRAMENTAS⚡</h3>
 <hr>
