@@ -1,7 +1,7 @@
 <h1>SEJAM BEM-VINDOS AO MEU PERFIL!</h1>
 <h3>👋QUEM SOU EU?👋</h3>
 <hr>
-<p>Olá, pessoal! Me chamo João Paulo. Tenho 25 anos. Sou estudante do curso superior de Sistemas para Internet do <a href="https://portal.ifrn.edu.br/campus/parnamirim/">Instituto Federal do Rio Grande do Norte - Campus Parnamirim.</a> Atualmente estou no 3° Período e sou apaixonado por tecnologia e programação e sempre estou em busca de aprender coisas novas.<p>
+<p>Olá, pessoal! Me chamo João Paulo. Tenho 25 anos. Sou estudante do curso superior de Sistemas para Internet do <a href="https://portal.ifrn.edu.br/campus/parnamirim/">Instituto Federal do Rio Grande do Norte - Campus Parnamirim.</a> Atualmente estou no 4° Período e sou apaixonado por tecnologia e programação e sempre estou em busca de aprender coisas novas.<p>
 
 <p>Este é o meu perfil no GitHub, onde compartilho alguns dos meus projetos e códigos. Sinta-se à vontade para explorar e usar qualquer um dos meus repositórios.<p><br>
 
