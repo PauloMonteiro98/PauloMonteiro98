@@ -1,3 +1,6 @@
+![Logo do R](https://media.licdn.com/dms/image/C4D12AQE8v6TPHvrgjA/article-cover_image-shrink_600_2000/0/1594357608572?e=2147483647&v=beta&t=XQtbzceqHjNzy7ws1Mqd9ddPNOAAS-YOmP6nbCvxu1c)
+
+
 <h1>SEJAM BEM-VINDOS AO MEU PERFIL!</h1>
 <h3>👋QUEM SOU EU?👋</h3>
 <hr>
@@ -19,7 +22,7 @@
 Atualmente estou aprendendo as seguintes ferramentas:
 
 <li><strong>JavaScript</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" />
-<li><strong>Python</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" />
+<li><strong>Node.js</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20" />
 <li><strong>MySql</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="20" />
 <li><strong>Html</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="20" height="20" />
 <li><strong>Css</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" />
