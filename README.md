@@ -25,6 +25,8 @@ Atualmente estou aprendendo as seguintes ferramentas:
 <li><strong>MySql</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="20" />
 <li><strong>Html</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="20" height="20" />
 <li><strong>Css</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" />
+<li><strong>React.js</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20" height="20"/>
+          
    
 ### 📫CONTATO📫
 
