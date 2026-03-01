@@ -1,4 +1,4 @@
-![Logo do R](https://media.licdn.com/dms/image/C4D12AQE8v6TPHvrgjA/article-cover_image-shrink_600_2000/0/1594357608572?e=2147483647&v=beta&t=XQtbzceqHjNzy7ws1Mqd9ddPNOAAS-YOmP6nbCvxu1c)
+![Logo do R](https://brand.github.com/_next/static/media/logo-03.cc5e5332.png)
 
 
 # SEJAM BEM-VINDOS AO MEU PERFIL!
