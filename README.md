@@ -4,9 +4,9 @@
 # SEJAM BEM-VINDOS AO MEU PERFIL!
 ### 👋QUEM SOU EU?👋
 
-Me chamo João Paulo, tenho 25 anos e sou estudante do curso superior de Tecnologia em Sistemas para Internet no <a href="https://portal.ifrn.edu.br/campus/parnamirim/">Instituto Federal do Rio Grande do Norte - Campus Parnamirim</a>. Atualmente estou no 5° Período. Sou apaixonado pela tecnologia e programação, e estou constantemente em busca de novos conhecimentos e habilidades nessa área.
+Desenvolvedor Full-stack formado em Sistemas para Internet pelo IFRN - Campus Parnamirim. Tenho experiência na construção de aplicações e estruturação de sistemas, atuando com tecnologias como Next.js, React, Node.js, FlutterFlow, WordPress, Strapi e Firebase. 
 
-Este é o meu perfil no GitHub, onde compartilho alguns dos meus projetos e códigos. Sinta-se à vontade para explorar e usar qualquer um dos meus repositórios.
+Em minha trajetória, destaco o desenvolvimento de um dashboard em Next.js, focado no consumo de APIs via Strapi, para dar suporte a um aplicativo de monitoramento de saúde mental construído em FlutterFlow. Busco resolver problemas de forma eficiente e mantenho o foco no aprendizado contínuo para aplicar novos conhecimentos técnicos em projetos desafiadores.
 
 
 <div align="center">
